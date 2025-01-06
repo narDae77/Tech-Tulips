@@ -1,11 +1,11 @@
 #include <iostream>
 #include <string>
 using namespace std;
-
+//hi there tell me this works
 int main() {
     // Declare variables to hold words and game stats
     string startWord, endWord, currentWord, nextWord;
-    int totalRounds = 0, player1Wins = 0, player2Wins = 0, player1Losses = 0, player2Losses = 0;
+    int totalRounds = 0, player1Wins = 0, player2Wins = 0, player1Losses = 0, player2Losses = 0; 
 
     // A larger dictionary of valid English words
     string dictionary[] = {
